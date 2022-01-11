@@ -1,0 +1,143 @@
+{'text': '- I have 9 million visitors', 'start': 0.21, 'duration': 1.69}
+{'text': "and now I'm trying to get less traffic.", 'start': 1.9, 'duration': 2.1}
+{'text': "Hey everyone, I'm Neil Patel", 'start': 4.0, 'duration': 1.96}
+{'text': 'and today, I want to\nbreak down how sometimes', 'start': 5.96, 'duration': 2.34}
+{'text': 'the best SEO strategy is\nto abandon some keywords.', 'start': 8.3, 'duration': 4.435}
+{'text': '(lighthearted music)', 'start': 12.735, 'duration': 3.083}
+{'text': 'Now, before we get started,', 'start': 17.2, 'duration': 0.88}
+{'text': 'make sure you subscribe to this channel,', 'start': 18.08, 'duration': 1.45}
+{'text': "and if you're on YouTube,\nclick the alert notification.", 'start': 19.53, 'duration': 3.31}
+{'text': 'Look, neilpatel.com gets roughly', 'start': 22.84, 'duration': 2.3}
+{'text': 'eight to 9 million visitors a month.', 'start': 25.14, 'duration': 1.63}
+{'text': 'And it ranges, some months\nare better than others,', 'start': 26.77, 'duration': 2.04}
+{'text': 'some months I even had\n10 million visitors,', 'start': 28.81, 'duration': 1.62}
+{'text': "some months, there's seven.", 'start': 30.43, 'duration': 1.3}
+{'text': 'Really depends on the season as well.', 'start': 31.73, 'duration': 2.08}
+{'text': 'Now, when I look at neilpatel.com,', 'start': 33.81, 'duration': 2.37}
+{'text': "when I first started off,\nI wasn't targeting buyers,", 'start': 36.18, 'duration': 3.44}
+{'text': 'I was targeting any keyword\nthat would get high traffic,', 'start': 39.62, 'duration': 3.05}
+{'text': 'and I just wanted as\nmuch traffic as possible.', 'start': 42.67, 'duration': 2.92}
+{'text': 'People were searching on how\nto make money on Instagram.', 'start': 45.59, 'duration': 2.66}
+{'text': 'You know what?', 'start': 48.25, 'duration': 0.833}
+{'text': 'Boom, I create a article on that.', 'start': 49.083, 'duration': 2.017}
+{'text': 'People want to know how to\nget more Instagram followers.', 'start': 51.1, 'duration': 1.98}
+{'text': 'Boom, I create a article on that.', 'start': 53.08, 'duration': 1.98}
+{'text': 'People want to know\nsomething about TikTok,', 'start': 55.06, 'duration': 1.69}
+{'text': 'even though my customers', 'start': 56.75, 'duration': 1.03}
+{'text': "don't care to pay me for TikTok marketing,", 'start': 57.78, 'duration': 2.54}
+{'text': 'boom, I create a article on that.', 'start': 60.32, 'duration': 2.67}
+{'text': 'Why was I doing that?', 'start': 62.99, 'duration': 1.83}
+{'text': 'Well, the main thing is,', 'start': 64.82, 'duration': 1.02}
+{'text': 'is I thought the more traffic, the better', 'start': 65.84, 'duration': 1.81}
+{'text': 'because a lot of people\nwanted this traffic', 'start': 67.65, 'duration': 2.05}
+{'text': 'and people would pay money\nto rank for these keywords', 'start': 69.7, 'duration': 3.07}
+{'text': 'or more so pay money', 'start': 72.77, 'duration': 1.4}
+{'text': 'to get at the top of\nGoogle in the paid ads.', 'start': 74.17, 'duration': 2.2}
+{'text': 'And what I learned from that strategy is,', 'start': 77.58, 'duration': 2.14}
+{'text': "if the intent of those\nkeywords doesn't exactly match", 'start': 79.72, 'duration': 3.63}
+{'text': 'what your ideal customer is looking for,', 'start': 83.35, 'duration': 2.27}
+{'text': "you're getting the traffic,\nbut you won't make any money.", 'start': 85.62, 'duration': 2.63}
+{'text': "So you're probably wondering,\nwhat am I doing now, right?", 'start': 88.25, 'duration': 3.76}
+{'text': "Well, I'm doing a few different things.", 'start': 92.01, 'duration': 2.73}
+{'text': "First off, I don't care\nfor traffic anymore.", 'start': 94.74, 'duration': 3.09}
+{'text': 'Yes, I want more traffic,\nbut I want the right traffic.', 'start': 97.83, 'duration': 2.79}
+{'text': "I don't really care if I\nhave 9 million visitors", 'start': 100.62, 'duration': 1.79}
+{'text': 'or 1,000,000 visitors.', 'start': 102.41, 'duration': 1.4}
+{'text': 'I really care about conversions', 'start': 103.81, 'duration': 1.53}
+{'text': "and what's driving those conversions.", 'start': 105.34, 'duration': 2.06}
+{'text': "And I've been doing this for a while now.", 'start': 107.4, 'duration': 1.7}
+{'text': 'So I want you to go into Google Analytics,', 'start': 109.1, 'duration': 1.86}
+{'text': 'set up some goals and conversion tracking,', 'start': 110.96, 'duration': 2.06}
+{'text': "and look to see what's\ndriving conversions.", 'start': 113.02, 'duration': 2.3}
+{'text': 'Focus more on getting\nthose traffic sources.', 'start': 115.32, 'duration': 2.52}
+{'text': "That's the first step.", 'start': 117.84, 'duration': 1.47}
+{'text': 'The second thing I want you\nto do is go and look for', 'start': 119.31, 'duration': 3.67}
+{'text': 'what your competitors are\npaying money on paid ads for.', 'start': 122.98, 'duration': 3.3}
+{'text': 'So you can use tools like Ubersuggest', 'start': 126.28, 'duration': 1.94}
+{'text': "and put in your competitor's URLs.", 'start': 128.22, 'duration': 1.68}
+{'text': 'See what keywords are ranking for,', 'start': 129.9, 'duration': 1.43}
+{'text': 'see what keywords are targeting for', 'start': 131.33, 'duration': 1.32}
+{'text': 'on a paid ad perspective.', 'start': 132.65, 'duration': 1.62}
+{'text': "And that'll give you a big idea of,", 'start': 134.27, 'duration': 3.13}
+{'text': 'hey, these are the keywords\nwe should be going after', 'start': 137.4, 'duration': 2.88}
+{'text': "and these are the keywords that\nwe shouldn't be going after.", 'start': 140.28, 'duration': 2.06}
+{'text': 'So if you know that your competition', 'start': 142.34, 'duration': 1.45}
+{'text': 'is continually paying for keyword,', 'start': 143.79, 'duration': 1.44}
+{'text': 'it means that that keyword is typically', 'start': 145.23, 'duration': 1.63}
+{'text': 'driving up more revenue.', 'start': 146.86, 'duration': 1.48}
+{'text': 'No one just keeps spending\nmoney and money over time', 'start': 148.34, 'duration': 3.24}
+{'text': 'for no reason.', 'start': 151.58, 'duration': 1.03}
+{'text': "Now, granted, if you're a big company,", 'start': 152.61, 'duration': 1.64}
+{'text': 'you may end up doing that,', 'start': 154.25, 'duration': 1.02}
+{'text': "but most people don't really do that.", 'start': 155.27, 'duration': 2.24}
+{'text': 'And even the big companies,', 'start': 157.51, 'duration': 1.0}
+{'text': 'they do got budgets and they\nhad to produce specific ROI.', 'start': 158.51, 'duration': 2.84}
+{'text': "The third thing that I'm doing is", 'start': 161.35, 'duration': 2.09}
+{'text': 'focusing on other channels', 'start': 163.44, 'duration': 1.6}
+{'text': "that aren't necessarily\nrelated to keywords.", 'start': 165.04, 'duration': 2.18}
+{'text': 'If you look at the big\ncompanies out there,', 'start': 167.22, 'duration': 2.1}
+{'text': 'Microsoft, IBM, Airbnb,\nNike, whatever it may be,', 'start': 169.32, 'duration': 3.98}
+{'text': 'they grow their revenue\nin many different ways.', 'start': 173.3, 'duration': 2.28}
+{'text': "Nike doesn't just generate\nrevenue through their website.", 'start': 175.58, 'duration': 2.72}
+{'text': 'They generate much of their sales', 'start': 178.3, 'duration': 2.25}
+{'text': 'by sending their shoes to other companies', 'start': 180.55, 'duration': 1.81}
+{'text': 'like Footlocker, right?', 'start': 182.36, 'duration': 1.61}
+{'text': 'You see Nike shoes in Nordstrom', 'start': 183.97, 'duration': 1.75}
+{'text': "and all these other stores that carry 'em", 'start': 185.72, 'duration': 1.85}
+{'text': "that generates some more sales,\nthat's called partnerships.", 'start': 187.57, 'duration': 2.66}
+{'text': "It's a form of affiliate marketing.", 'start': 190.23, 'duration': 2.12}
+{'text': 'Now, if you do things like that,', 'start': 192.35, 'duration': 1.95}
+{'text': 'you can also generate more sales.', 'start': 194.3, 'duration': 1.56}
+{'text': 'And we found that doing things like that', 'start': 195.86, 'duration': 1.88}
+{'text': 'is a massive channel\nfor companies like ours.', 'start': 197.74, 'duration': 3.18}
+{'text': "The next thing that I'm doing", 'start': 200.92, 'duration': 1.56}
+{'text': 'is going after keywords that\nI know I can easily rank for.', 'start': 202.48, 'duration': 4.08}
+{'text': 'So if you go to Ubersuggest', 'start': 206.56, 'duration': 1.58}
+{'text': 'and you put in a keyword\nthat you know is good,', 'start': 208.14, 'duration': 3.07}
+{'text': "like, I'm in the marketing industry,", 'start': 211.21, 'duration': 1.25}
+{'text': 'so I may put in digital marketing,', 'start': 212.46, 'duration': 1.88}
+{'text': "and you'll see a report that loads", 'start': 214.34, 'duration': 2.13}
+{'text': 'and it shows your overall traffic,', 'start': 216.47, 'duration': 1.57}
+{'text': 'like, for the term digital marketing', 'start': 218.04, 'duration': 1.94}
+{'text': 'and how many people click on it.', 'start': 219.98, 'duration': 1.57}
+{'text': "But then what's cool about\nthis is on the left side", 'start': 221.55, 'duration': 1.99}
+{'text': 'you see keyword ideas report.', 'start': 223.54, 'duration': 1.28}
+{'text': "If you click on it, it'll\nshow you all the keywords", 'start': 224.82, 'duration': 2.99}
+{'text': 'that are related to digital marketing,', 'start': 227.81, 'duration': 1.35}
+{'text': "and there's different tabs,\nsome are questions-related,", 'start': 229.16, 'duration': 2.79}
+{'text': 'some are related,', 'start': 231.95, 'duration': 1.01}
+{'text': 'some are just suggestions\nfrom Google Suggest.', 'start': 232.96, 'duration': 2.56}
+{'text': 'And what I want you to do is,', 'start': 235.52, 'duration': 1.18}
+{'text': "if you're not logged in, you won't see it,", 'start': 236.7, 'duration': 1.27}
+{'text': "but if you're logged in,", 'start': 237.97, 'duration': 1.32}
+{'text': "it'll actually have a option\nwhere there's a button", 'start': 239.29, 'duration': 2.5}
+{'text': 'that says, show me keywords\nthat I can rank for.', 'start': 241.79, 'duration': 2.25}
+{'text': 'And you put your URL in there', 'start': 244.04, 'duration': 2.45}
+{'text': "and it'll end up breaking\nout once you put your URL,", 'start': 246.49, 'duration': 2.81}
+{'text': 'all the related keywords that are good', 'start': 249.3, 'duration': 3.76}
+{'text': 'and that you can easily rank for.', 'start': 253.06, 'duration': 2.61}
+{'text': 'And I want you to look at\neach of those keywords,', 'start': 255.67, 'duration': 1.83}
+{'text': 'do some searches, do some research,', 'start': 257.5, 'duration': 2.05}
+{'text': "and make sure that you're\nseeing direct competitors,", 'start': 259.55, 'duration': 2.69}
+{'text': 'not somewhat competitors,\nbut direct competitors.', 'start': 262.24, 'duration': 2.36}
+{'text': "Like I wouldn't look at HubSpot", 'start': 264.6, 'duration': 0.833}
+{'text': 'because HubSpot is not\na direct competitor.', 'start': 265.433, 'duration': 2.387}
+{'text': 'I may look at iProspect, which\nwould be a direct competitor', 'start': 267.82, 'duration': 3.13}
+{'text': 'and see, all right,', 'start': 270.95, 'duration': 0.833}
+{'text': 'are they bidding for\nsome of these same terms?', 'start': 271.783, 'duration': 2.107}
+{'text': 'And if they are, and they have\na high CPC and good traffic,', 'start': 273.89, 'duration': 3.97}
+{'text': "that means I know that\nthat's a good keyword for me", 'start': 277.86, 'duration': 2.58}
+{'text': 'to target in SEO because\nit will drive sales,', 'start': 280.44, 'duration': 2.76}
+{'text': 'which is very important.', 'start': 283.2, 'duration': 1.79}
+{'text': "And that's a strategy\nthat I would recommend,", 'start': 284.99, 'duration': 1.86}
+{'text': "and remember, traffic isn't everything,", 'start': 286.85, 'duration': 2.19}
+{'text': 'conversions and sales is.', 'start': 289.04, 'duration': 1.6}
+{'text': 'It all starts with\ntracking your conversions', 'start': 290.64, 'duration': 2.98}
+{'text': 'in things like Google Analytics,', 'start': 293.62, 'duration': 2.59}
+{'text': 'which they can do for free.', 'start': 296.21, 'duration': 1.61}
+{'text': 'So if you have any questions,\nleave a comment below.', 'start': 297.82, 'duration': 2.12}
+{'text': 'If you need help getting the\nright traffic that converts,', 'start': 299.94, 'duration': 2.19}
+{'text': 'check on my ad agency, NP Digital.', 'start': 302.13, 'duration': 2.36}
+{'text': 'If you enjoy this video,\nlike it, share it,', 'start': 304.49, 'duration': 1.8}
+{'text': 'tell other people about it.', 'start': 306.29, 'duration': 1.01}
+{'text': 'Thank you for watching.', 'start': 307.3, 'duration': 1.15}

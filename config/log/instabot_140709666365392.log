@@ -1,0 +1,372 @@
+2021-09-28 00:08:47,269 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2021-09-28 00:08:47,270 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from /Users/josealexsandroalmeidadossantos/.virtualenvs/TopScript/lib/python3.9/site-packages/instabot/bot/bot.py
+2021-09-28 00:10:09,435 - instabot version: 0.117.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2021-09-28 00:10:09,818 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/get_prefill_candidates/ returned response: <Response [200]>
+2021-09-28 00:10:10,155 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2021-09-28 00:10:10,490 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2021-09-28 00:10:10,856 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/contact_point_prefill/ returned response: <Response [200]>
+2021-09-28 00:10:13,489 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/login/ returned response: <Response [200]>
+2021-09-28 00:10:13,491 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'pythonbr1'!
+2021-09-28 00:10:13,492 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: True
+2021-09-28 00:10:14,029 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2021-09-28 00:10:14,846 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2021-09-28 00:10:15,201 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: zr/token/result/?device_id=android-768a3bbae3070488&token_hash=&custom_device_id=android-768a3bbae3070488&fetch_reason=token_expired returned response: <Response [200]>
+2021-09-28 00:10:15,578 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: multiple_accounts/get_account_family/ returned response: <Response [200]>
+2021-09-28 00:10:16,295 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2021-09-28 00:10:17,430 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: igtv/browse_feed/?prefetch=1 returned response: <Response [200]>
+2021-09-28 00:10:35,567 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: creatives/ar_class/ returned response: <Response [560]>
+2021-09-28 00:10:35,569 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b''
+2021-09-28 00:10:35,570 - instabot version: 0.117.0 (api) - ERROR - Request returns 560 error!
+2021-09-28 00:10:35,570 - instabot version: 0.117.0 (api) - ERROR - Error checking for `feedback_required`, response text is not JSON
+2021-09-28 00:10:35,571 - instabot version: 0.117.0 (api) - INFO - Full Response: <Response [560]>
+2021-09-28 00:10:35,571 - instabot version: 0.117.0 (api) - INFO - Response Text: 
+2021-09-28 00:10:35,571 - instabot version: 0.117.0 (api) - ERROR - Error unknown send request
+2021-09-28 00:10:36,405 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2021-09-28 00:10:38,201 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2021-09-28 00:10:38,576 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/blocked/ returned response: <Response [200]>
+2021-09-28 00:10:39,654 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: news/inbox/ returned response: <Response [200]>
+2021-09-28 00:10:40,077 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: loom/fetch_config/ returned response: <Response [200]>
+2021-09-28 00:10:40,908 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: scores/bootstrap/users/?surfaces=["autocomplete_user_list","coefficient_besties_list_ranking","coefficient_rank_recipient_user_suggestion","coefficient_ios_section_test_bootstrap_ranking","coefficient_direct_recipients_ranking_variant_2"] returned response: <Response [200]>
+2021-09-28 00:10:41,303 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: business/eligibility/get_monetization_products_eligibility_data/?product_types=branded_content returned response: <Response [200]>
+2021-09-28 00:10:41,653 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: business/branded_content/should_require_professional_account/ returned response: <Response [200]>
+2021-09-28 00:10:42,064 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: linked_accounts/get_linkage_status/ returned response: <Response [200]>
+2021-09-28 00:10:42,484 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: locations/request_country/ returned response: <Response [200]>
+2021-09-28 00:10:44,079 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: qp/get_cooldowns/?signed_body=signed_body=4b9c516a5410a3bc128e09c6104a7f042146b9c2023870560c63a43a7f66781c.4&ig_sig_key_version=4&ig_sig_key_version=4 returned response: <Response [200]>
+2021-09-28 00:10:44,435 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/arlink_download_info/?version_override=2.2.1 returned response: <Response [200]>
+2021-09-28 00:10:45,653 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/49405688059/info/ returned response: <Response [200]>
+2021-09-28 00:10:46,418 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: direct_v2/get_presence/ returned response: <Response [200]>
+2021-09-28 00:10:47,821 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20 returned response: <Response [200]>
+2021-09-28 00:10:48,202 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: direct_v2/inbox/?visual_message_return_type=unseen&persistentBadging=true&limit=0 returned response: <Response [200]>
+2021-09-28 00:10:50,018 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: discover/topical_explore/?is_prefetch=true&omit_cover_media=true&use_sectional_payload=true&timezone_offset=0&session_id=9a82d08e-5795-4e09-a621-22370fb9a8ae&include_fixed_destinations=true returned response: <Response [200]>
+2021-09-28 00:10:50,399 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: notifications/badge/ returned response: <Response [200]>
+2021-09-28 00:10:51,402 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qp/batch_fetch/ returned response: <Response [200]>
+2021-09-28 00:10:51,403 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: /Users/josealexsandroalmeidadossantos/PycharmProjects/TopScript/config/pythonbr1.checkpoint
+2021-09-28 00:10:51,403 - instabot version: 0.117.0 (inst) - INFO - 
+            Going to get your likers and watch their stories (and stories
+            of their likers too). You can specify username of another user
+            to start (by default we use you as a starting point).
+        
+2021-09-28 00:10:52,221 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/49405688059/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:10:53,007 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2667195136177398017/likers/? returned response: <Response [200]>
+2021-09-28 00:10:53,506 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:10:54,095 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 0
+2021-09-28 00:10:55,190 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/418879248/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:10:55,844 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2417732671256731085/likers/? returned response: <Response [200]>
+2021-09-28 00:10:57,340 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:10:58,468 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 26
+2021-09-28 00:10:59,487 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/191151599/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:11:00,100 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2542583670672004552/likers/? returned response: <Response [200]>
+2021-09-28 00:11:01,624 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:11:02,731 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 86
+2021-09-28 00:11:03,480 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/11310663908/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:11:04,097 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2518342405556658299/likers/? returned response: <Response [200]>
+2021-09-28 00:11:05,015 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:11:06,200 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 114
+2021-09-28 00:11:07,368 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/3688661764/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:11:08,048 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2543692104289112305/likers/? returned response: <Response [200]>
+2021-09-28 00:11:09,213 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:11:10,288 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 128
+2021-09-28 00:11:10,889 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/8316118767/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:11:11,623 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2636057338739901352/likers/? returned response: <Response [200]>
+2021-09-28 00:11:13,163 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:11:14,283 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 178
+2021-09-28 00:11:15,508 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/6785455632/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:11:16,100 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2539649170498004086/likers/? returned response: <Response [200]>
+2021-09-28 00:11:19,131 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:11:20,692 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 291
+2021-09-28 00:11:21,443 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/17446890150/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:11:22,121 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2444851862403591291/likers/? returned response: <Response [200]>
+2021-09-28 00:11:24,054 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:11:25,107 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 353
+2021-09-28 00:11:25,784 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/7717779994/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:11:26,295 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2387996211811933729/likers/? returned response: <Response [200]>
+2021-09-28 00:11:27,877 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:11:29,307 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 413
+2021-09-28 00:11:31,519 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/38791172381/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:11:32,344 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2649277559353761324/likers/? returned response: <Response [200]>
+2021-09-28 00:11:33,977 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:11:35,005 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 443
+2021-09-28 00:11:36,526 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/47667483717/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:11:37,143 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2651942464555136453/likers/? returned response: <Response [200]>
+2021-09-28 00:11:39,079 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:11:40,168 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 503
+2021-09-28 00:11:40,954 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/39664137217/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:11:41,556 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2664131383065542378/likers/? returned response: <Response [200]>
+2021-09-28 00:11:42,673 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:11:43,910 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 530
+2021-09-28 00:11:44,952 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/48402015205/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:11:45,442 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2662385341514524126/likers/? returned response: <Response [200]>
+2021-09-28 00:11:47,493 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:11:49,051 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 604
+2021-09-28 00:11:49,756 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/48506831595/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:11:50,446 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2665810241642509256/likers/? returned response: <Response [200]>
+2021-09-28 00:11:51,889 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:11:53,223 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 642
+2021-09-28 00:11:54,232 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/45474028546/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:11:54,948 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2561290031218297199/likers/? returned response: <Response [200]>
+2021-09-28 00:11:56,779 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:11:57,915 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 697
+2021-09-28 00:11:58,632 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/1177966319/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:11:59,360 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2670720907010810013/likers/? returned response: <Response [200]>
+2021-09-28 00:11:59,891 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:12:00,660 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 700
+2021-09-28 00:12:01,420 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/7114691333/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:12:02,371 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/1717566456377629566/likers/? returned response: <Response [200]>
+2021-09-28 00:12:03,133 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:12:04,378 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 727
+2021-09-28 00:12:05,079 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/8019883611/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:12:05,647 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2655663053679211406/likers/? returned response: <Response [200]>
+2021-09-28 00:12:06,081 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:12:06,673 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 727
+2021-09-28 00:12:07,429 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/6891319073/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:12:08,149 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2163424613240278449/likers/? returned response: <Response [200]>
+2021-09-28 00:12:09,886 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:12:11,427 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 791
+2021-09-28 00:12:12,453 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/35046584126/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:12:14,189 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2632964410382287181/likers/? returned response: <Response [200]>
+2021-09-28 00:12:15,483 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:12:16,539 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 826
+2021-09-28 00:12:16,917 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/37262180174/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:12:16,917 - instabot version: 0.117.0 (inst) - INFO - list index out of range
+2021-09-28 00:16:23,635 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/49405688059/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:16:24,260 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2669328425632404446/likers/? returned response: <Response [200]>
+2021-09-28 00:16:24,668 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:16:25,167 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 826
+2021-09-28 00:16:26,092 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/49230596211/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:16:26,928 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2644825555814452736/likers/? returned response: <Response [200]>
+2021-09-28 00:16:27,931 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:16:28,869 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 834
+2021-09-28 00:16:29,945 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/377462120/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:16:30,712 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2461381440378974777/likers/? returned response: <Response [200]>
+2021-09-28 00:16:32,288 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:16:33,378 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 901
+2021-09-28 00:16:34,583 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/38826403/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:16:35,298 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2658545432848544765/likers/? returned response: <Response [200]>
+2021-09-28 00:16:36,192 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:16:37,170 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 934
+2021-09-28 00:16:37,859 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/3712805908/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:16:38,649 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2570253629609963613/likers/? returned response: <Response [200]>
+2021-09-28 00:16:39,630 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:16:40,736 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 946
+2021-09-28 00:16:41,643 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/3553769882/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:16:42,608 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2633213037778180577/likers/? returned response: <Response [200]>
+2021-09-28 00:16:43,592 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:16:44,565 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 964
+2021-09-28 00:16:45,329 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/373030661/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:16:46,002 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2472100657890599814/likers/? returned response: <Response [200]>
+2021-09-28 00:16:47,686 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:16:48,765 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 1017
+2021-09-28 00:16:49,522 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/6986232952/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:16:50,292 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2512629210759518362/likers/? returned response: <Response [200]>
+2021-09-28 00:16:51,972 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:16:53,347 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 1083
+2021-09-28 00:16:54,128 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/178362262/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:16:54,800 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2396145422655936849/likers/? returned response: <Response [200]>
+2021-09-28 00:16:56,288 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:16:57,658 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 1133
+2021-09-28 00:16:58,575 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/5585186087/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:16:59,243 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2514313343890576280/likers/? returned response: <Response [200]>
+2021-09-28 00:17:02,992 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:17:04,299 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 1274
+2021-09-28 00:17:05,325 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/1583708206/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:17:06,277 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2665887420828701043/likers/? returned response: <Response [200]>
+2021-09-28 00:17:07,636 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:17:08,815 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 1311
+2021-09-28 00:17:09,558 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/1554461488/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:17:10,192 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2667005166513198384/likers/? returned response: <Response [200]>
+2021-09-28 00:17:11,628 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:17:12,908 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 1383
+2021-09-28 00:17:13,673 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/50408900/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:17:14,285 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2663944620566488537/likers/? returned response: <Response [200]>
+2021-09-28 00:17:15,411 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:17:16,491 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 1404
+2021-09-28 00:17:17,868 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/7495859488/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:17:18,520 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2518695036583699399/likers/? returned response: <Response [200]>
+2021-09-28 00:17:19,300 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:17:20,331 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 1423
+2021-09-28 00:17:21,039 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/40860173729/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:17:21,943 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2475054179444150673/likers/? returned response: <Response [200]>
+2021-09-28 00:17:22,945 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:17:24,018 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 1457
+2021-09-28 00:17:24,941 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/1520332435/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:17:25,600 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2664788886465440651/likers/? returned response: <Response [200]>
+2021-09-28 00:17:26,260 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:17:27,220 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 1473
+2021-09-28 00:17:27,995 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/1663002218/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:17:28,738 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2664808266196648223/likers/? returned response: <Response [200]>
+2021-09-28 00:17:29,132 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:17:29,958 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 1473
+2021-09-28 00:17:30,864 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/46130935855/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:17:31,533 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2659790587386157597/likers/? returned response: <Response [200]>
+2021-09-28 00:17:32,808 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:17:33,893 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 1514
+2021-09-28 00:17:34,856 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/1966270245/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:17:35,840 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2667270242835407029/likers/? returned response: <Response [200]>
+2021-09-28 00:17:36,806 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:17:37,941 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 1552
+2021-09-28 00:17:38,842 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/3502105517/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:17:39,461 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2655954681639742586/likers/? returned response: <Response [200]>
+2021-09-28 00:17:40,380 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:17:41,421 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 1573
+2021-09-28 00:17:42,118 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/9123400177/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:17:42,794 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2670175981097267754/likers/? returned response: <Response [200]>
+2021-09-28 00:17:43,449 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:17:44,677 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 1579
+2021-09-28 00:17:45,394 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/36428907684/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:17:46,257 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2380841473223486825/likers/? returned response: <Response [200]>
+2021-09-28 00:17:47,192 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:17:48,228 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 1585
+2021-09-28 00:17:49,929 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/46964414208/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:17:50,465 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2662021529884675009/likers/? returned response: <Response [200]>
+2021-09-28 00:17:51,214 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:17:52,188 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 1610
+2021-09-28 00:17:53,273 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/9246405678/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:17:53,886 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2665710147705740036/likers/? returned response: <Response [200]>
+2021-09-28 00:17:54,672 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:17:55,752 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 1625
+2021-09-28 00:17:56,344 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/40476621950/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:17:56,877 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2639534708458887275/likers/? returned response: <Response [200]>
+2021-09-28 00:17:57,776 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:17:58,820 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 1641
+2021-09-28 00:17:59,847 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/817388948/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:18:00,435 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2657104686024229202/likers/? returned response: <Response [200]>
+2021-09-28 00:18:01,358 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:18:02,401 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 1666
+2021-09-28 00:18:03,254 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/49217136430/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:18:04,690 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2657618341139157358/likers/? returned response: <Response [200]>
+2021-09-28 00:18:05,663 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:18:07,018 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 1686
+2021-09-28 00:18:07,657 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/11199530679/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:18:08,313 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2604765169989309732/likers/? returned response: <Response [200]>
+2021-09-28 00:18:09,802 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:18:12,080 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 1731
+2021-09-28 00:18:12,081 - instabot version: 0.117.0 (inst) - INFO - Sleeping and returning back to original user_id=49405688059
+2021-09-28 00:20:24,229 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/49405688059/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:20:24,804 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2668079647723497816/likers/? returned response: <Response [200]>
+2021-09-28 00:20:25,204 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:20:26,274 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 1731
+2021-09-28 00:20:27,718 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/1487488569/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:20:28,308 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2317949406917020058/likers/? returned response: <Response [200]>
+2021-09-28 00:20:28,911 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:20:29,894 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 1739
+2021-09-28 00:20:30,551 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/3509382463/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:20:31,117 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2636559650349056806/likers/? returned response: <Response [200]>
+2021-09-28 00:20:31,631 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:20:32,658 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 1740
+2021-09-28 00:20:33,267 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/1113248367/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:20:34,191 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2618745620075627289/likers/? returned response: <Response [200]>
+2021-09-28 00:20:35,156 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:20:36,075 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 1762
+2021-09-28 00:20:36,944 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/4334810858/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:20:37,573 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2599780151814715476/likers/? returned response: <Response [200]>
+2021-09-28 00:20:39,247 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:20:40,376 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 1821
+2021-09-28 00:20:41,398 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/6826531709/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:20:42,277 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2614042575291614350/likers/? returned response: <Response [200]>
+2021-09-28 00:20:44,055 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:20:45,431 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 1909
+2021-09-28 00:20:46,260 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/33974775043/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:20:46,879 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2567068451932120717/likers/? returned response: <Response [200]>
+2021-09-28 00:20:48,449 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:20:49,664 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 1989
+2021-09-28 00:20:50,024 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/49107220804/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:20:50,025 - instabot version: 0.117.0 (inst) - INFO - list index out of range
+2021-09-28 00:25:35,079 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/49405688059/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:25:35,914 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2670607384103114517/likers/? returned response: <Response [200]>
+2021-09-28 00:25:36,252 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:25:37,046 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 1989
+2021-09-28 00:25:38,379 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/418879248/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:25:38,948 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2417732671256731085/likers/? returned response: <Response [200]>
+2021-09-28 00:25:39,993 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:25:40,866 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 1990
+2021-09-28 00:25:41,756 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/1234407083/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:25:42,429 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2661389555602919232/likers/? returned response: <Response [200]>
+2021-09-28 00:25:42,957 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:25:43,946 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 1999
+2021-09-28 00:25:43,946 - instabot version: 0.117.0 (inst) - INFO - Sleeping and returning back to original user_id=49405688059
+2021-09-28 00:27:04,105 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/49405688059/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:27:04,839 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2670239203753629621/likers/? returned response: <Response [200]>
+2021-09-28 00:27:05,359 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:27:08,097 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 1999
+2021-09-28 00:27:09,120 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/48067939138/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:27:09,706 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2668084953669136570/likers/? returned response: <Response [200]>
+2021-09-28 00:27:11,164 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:27:12,507 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 2040
+2021-09-28 00:27:13,318 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/49359941131/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:27:13,814 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2666609310825469020/likers/? returned response: <Response [200]>
+2021-09-28 00:27:15,674 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:27:16,703 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 2087
+2021-09-28 00:27:17,075 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/8658468829/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:27:17,076 - instabot version: 0.117.0 (inst) - INFO - list index out of range
+2021-09-28 00:31:46,145 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/49405688059/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:31:46,886 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2670607384103114517/likers/? returned response: <Response [200]>
+2021-09-28 00:31:47,236 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:31:47,727 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 2087
+2021-09-28 00:31:48,640 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/2999197366/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:31:49,079 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2649743371112275392/likers/? returned response: <Response [200]>
+2021-09-28 00:31:49,421 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:31:49,981 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 2087
+2021-09-28 00:31:51,000 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/2928583814/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:31:51,711 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2652449029592399128/likers/? returned response: <Response [200]>
+2021-09-28 00:31:52,323 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:31:53,253 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 2089
+2021-09-28 00:31:53,923 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/183737864/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:31:54,644 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2475873013842463515/likers/? returned response: <Response [200]>
+2021-09-28 00:31:56,290 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:31:57,349 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 2136
+2021-09-28 00:31:58,174 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/1451172915/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:31:58,856 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2657050353214526167/likers/? returned response: <Response [200]>
+2021-09-28 00:31:59,778 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:32:00,845 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 2160
+2021-09-28 00:32:01,633 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/14726959/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:32:02,669 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2560895816807354719/likers/? returned response: <Response [200]>
+2021-09-28 00:32:04,161 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:32:05,354 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 2200
+2021-09-28 00:32:06,202 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/225396018/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:32:06,815 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2641807942233233396/likers/? returned response: <Response [200]>
+2021-09-28 00:32:08,151 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:32:09,305 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 2247
+2021-09-28 00:32:10,469 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/7446429244/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:32:11,145 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2601240242824797631/likers/? returned response: <Response [200]>
+2021-09-28 00:32:12,242 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:32:13,260 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 2271
+2021-09-28 00:32:14,390 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/17599210249/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:32:14,900 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2648762163034710349/likers/? returned response: <Response [200]>
+2021-09-28 00:32:16,028 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:32:17,076 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 2309
+2021-09-28 00:32:17,872 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/26590426646/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:32:18,582 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2656051363424706423/likers/? returned response: <Response [200]>
+2021-09-28 00:32:19,299 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:32:20,358 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 2317
+2021-09-28 00:32:21,140 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/48162920038/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:32:21,756 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2670064661728105951/likers/? returned response: <Response [200]>
+2021-09-28 00:32:22,522 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:32:23,472 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 2324
+2021-09-28 00:32:24,524 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/7796613778/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:32:25,235 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2620698436830264735/likers/? returned response: <Response [200]>
+2021-09-28 00:32:25,848 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:32:26,769 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 2326
+2021-09-28 00:32:27,512 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/47212263487/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:32:28,509 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2646807559975755146/likers/? returned response: <Response [200]>
+2021-09-28 00:32:29,329 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:32:30,323 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 2339
+2021-09-28 00:32:31,784 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/49010040670/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:32:32,500 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2653406796341705173/likers/? returned response: <Response [200]>
+2021-09-28 00:32:33,221 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:32:34,296 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 2348
+2021-09-28 00:32:35,368 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/36828385109/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:32:36,369 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2659845417451932764/likers/? returned response: <Response [200]>
+2021-09-28 00:32:37,109 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:32:38,184 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 2365
+2021-09-28 00:32:39,151 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/16345847483/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:32:39,970 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2670300922663296562/likers/? returned response: <Response [200]>
+2021-09-28 00:32:40,787 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:32:41,947 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 2383
+2021-09-28 00:32:42,836 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/4149489870/?max_id=&min_timestamp=None&rank_token=49405688059_7bb4e263-489c-45e4-9be4-1db6322e002f&ranked_content=true returned response: <Response [200]>
+2021-09-28 00:32:43,579 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2435924125924764363/likers/? returned response: <Response [200]>
+2021-09-28 00:32:44,681 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_media/ returned response: <Response [200]>
+2021-09-28 00:32:45,656 - instabot version: 0.117.0 (inst) - INFO - Total stories viewed: 2389
+2021-09-28 00:32:45,657 - instabot version: 0.117.0 (inst) - INFO - Sleeping and returning back to original user_id=49405688059
+2021-09-28 00:32:49,915 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /Users/josealexsandroalmeidadossantos/PycharmProjects/TopScript/config/pythonbr1.checkpoint
+2021-09-28 00:32:49,916 - instabot version: 0.117.0 (bot) - INFO - Total stories_viewed: 2389
+2021-09-28 00:32:49,916 - instabot version: 0.117.0 (bot) - INFO - Total requests: 268
